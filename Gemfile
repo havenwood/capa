@@ -2,8 +2,6 @@
 
 source Gem.default_sources.first
 
-ruby file: '.ruby-version'
-
 gemspec
 
 gem 'irb'
